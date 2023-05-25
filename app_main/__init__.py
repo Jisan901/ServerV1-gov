@@ -23,7 +23,7 @@ CORS(app)
 with open('app_main/config.json','r') as c:
     params = json.load(c)['params']
 
-production = False
+production = True
 
 if production == True:
     db_uri = params['databases']['cloud']
