@@ -1,0 +1,14 @@
+////************ Server Api **************\\\\
+
+##
+    [GET] routes -----> / <----- routes
+    [GET,POST] routes -----> /login <----- routes
+    [GET,POST] routes -----> /signup <----- routes
+    [GET] routes -----> /user <----- routes
+    [[GET]] routes -----> /users <----- routes
+    [[GET]] routes -----> /changerole/<string:email>/<string:role> <----- routes
+    [GET,POST] routes -----> /application <----- routes
+    [[GET]] routes -----> /application/<string:oid>/<string:status> <----- routes
+    [[GET]] routes -----> /applications/<string:status> <----- routes
+##
+

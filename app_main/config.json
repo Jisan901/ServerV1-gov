@@ -1,0 +1,15 @@
+{
+    "params":{
+        "databases":{
+            "local":"mongodb://localhost:27017/",
+            "cloud":"mongodb+srv://Jisan2:nByvJIVGfNRgfJd2@cluster0.ahnhiyc.mongodb.net/?retryWrites=true&w=majority",
+            "db_token":"ReBootDB"
+        },
+        "email":"noreply@app.com",
+        "email_mail":"jisuna901@gmail.com",
+        "mailer_pass":"aomyurvyvrtkxmiy"
+        ,
+        "secrets":"88339a8ec5f922033ec5337389d5fc79ffb8c593407e2b8127ce8225fc",
+        "jwt":"536ba2ede299fd6bc4d260ed2d1b6551895c53bb4bf97e69e7c277d1fdad103779a84dfa6e1d9463343185d5f1daf84fd22a72a5c03ccb755e20042ddb556387"
+    }
+}
